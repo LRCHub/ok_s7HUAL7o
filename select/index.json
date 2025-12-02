@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "春の歌",
+  "base_artist": "Spitz",
+  "createdAt": "2025-12-02T16:55:58.886756Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春の歌",
+      "artist": "ウカスカジー",
+      "has_synced": false,
+      "path": "select/01_春の歌_ウカスカジー.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "春の歌",
+      "artist": "Sakura Fujiwara",
+      "has_synced": true,
+      "path": "select/02_春の歌_Sakura_Fujiwara.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "春の歌",
+      "artist": "Yoeko Kurahashi",
+      "has_synced": true,
+      "path": "select/03_春の歌_Yoeko_Kurahashi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "春の歌",
+      "artist": "Sotte Bosse",
+      "has_synced": false,
+      "path": "select/04_春の歌_Sotte_Bosse.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "春の歌",
+      "artist": "ウカスカジー",
+      "has_synced": true,
+      "path": "select/05_春の歌_ウカスカジー.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春の歌",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_春の歌_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "春の歌",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_02_春の歌_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "春の歌",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_03_春の歌_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "春の歌",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_04_春の歌_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "春の歌",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_05_春の歌_スピッツ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "春の歌",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_06_春の歌_スピッツ.txt"
+    }
+  ]
+}
